@@ -28,3 +28,19 @@ hr {
     border-top: 1px solid f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
+
+.myBrand {
+    background-color: #ffffff;
+   /* border-radius:20px;
+    height: inherit;*/
+}
+
+.navbar-brand {
+
+    padding-top: 0;
+    padding-bottom:0;
+    /*background-color:#ffffff;*/
+    border-radius: 25px;
+    height:49px;
+    /*padding-left:  0;*/
+}
