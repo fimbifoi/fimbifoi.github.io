@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background: url("https://d276vs7inno1cd.cloudfront.net/rani-ramli-geometric.jpg") no-repeat center;
+    /* background: url("https://d276vs7inno1cd.cloudfront.net/rani-ramli-geometric.jpg") no-repeat center; */
     background-size: cover;
     font-family: "Lato";
     color: #fff;
@@ -15,7 +15,7 @@ body {
     padding-top: 25%;
     text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
                  0px 8px 13px rgba(0,0,0,0.1),
-                 0px 18px 23px rgba(0,0,0,0.1);    
+                 0px 18px 23px rgba(0,0,0,0.1);
 }
 
 h1 {
@@ -43,4 +43,68 @@ hr {
     border-radius: 25px;
     height:49px;
     /*padding-left:  0;*/
+}
+
+.f3-header {
+  color: #d8243c;
+}
+
+.f3-padding-50 {
+  padding-top: 50px !important;
+}
+
+.f3-logo-top {
+  z-index: 2;
+  position: absolute;
+  /* display: block; */
+  margin-left: 46%;
+  margin-right: auto;
+  width: 8%;
+  left: 0px;
+  top: 0px;
+  background-color: #ffffff;
+
+  /* shaping border-radius */
+  /* border-top-left-radius: 80%;
+  border-top-right-radius: 80%; */
+  border-bottom-right-radius: 40%;
+  border-bottom-left-radius: 10%;
+  /* End of shaping border-radius */
+
+  border-top-color: rgba(255, 255, 255, 1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-right-color: rgb(216, 36, 60);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-bottom-color: rgb(216, 36, 60);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgb(216, 36, 60);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+
+  /* border: 1px solid #d8243c; */
+}
+
+.w3-tag {
+  background-color: #d8243c99 !important;
+  color: #000 !important;
+  padding-bottom: 5px;
+  font-weight: 700;
+}
+
+.w3-button:hover {
+  background-color: #d8243c !important;
+  color: #ffffff !important;
+}
+
+.f3-nav-item-center {
+  color: #d8243c !important;
+  font-weight: 600;
 }
