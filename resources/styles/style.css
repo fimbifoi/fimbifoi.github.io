@@ -7,7 +7,8 @@ body {
     /* background: url("https://d276vs7inno1cd.cloudfront.net/rani-ramli-geometric.jpg") no-repeat center; */
     background-size: cover;
     font-family: "Lato";
-    color: #fff;
+    /* color: #d8243c; */
+    color: #869ab8;
 }
 
 #content {
@@ -89,22 +90,67 @@ hr {
   border-image-outset: initial;
   border-image-repeat: initial;
 
-  /* border: 1px solid #d8243c; */
+  /* border: 1px solid #007bff; */
 }
 
 .w3-tag {
-  background-color: #d8243c99 !important;
+  background-color: #007bff99 !important;
   color: #000 !important;
   padding-bottom: 5px;
   font-weight: 700;
 }
 
 .w3-button:hover {
-  background-color: #d8243c !important;
+  background-color: #007bff !important;
   color: #ffffff !important;
 }
 
 .f3-nav-item-center {
-  color: #d8243c !important;
+  color: #007bff !important;
   font-weight: 600;
+}
+
+.f3-nav-border {
+  border-top-color: rgba(216, 36, 60, 0.35);
+  /* rgb(216, 36, 60); */
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-bottom-color: rgba(216, 36, 60, 0.35);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+}
+
+.f3-blue{
+  background-color: #007bff;
+}
+
+.f3-red {
+  background-color: #d8243c;
+}
+
+.f3-white {
+  background-color: #ffffff;
+}
+
+.text-muted {
+  coloe: #869ab8 !important;
+}
+
+.text-red {
+  color: #d8243c !important;
+}
+
+.pt-4, .py-4 {
+    padding-top: 7.5rem!important;
+}
+
+.display-3 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.2;
 }
