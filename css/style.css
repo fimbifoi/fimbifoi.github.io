@@ -26,7 +26,7 @@
 		12 Contact
 		13 Footer
 		14 Responsive
-	
+
 
 ---------------------------------------------------------------- */
 /* ----------------------------------------------------------------
@@ -138,7 +138,7 @@ span, a, a:hover {
   content: '';
   width: 60px;
   height: 1px;
-  background: #C49B66;
+  background: #d8243c;
   position: absolute;
   bottom: 0;
   left: calc(50% - 30px);
@@ -298,7 +298,7 @@ span, a, a:hover {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #C49B66;
+  background: #d8243c;
 }
 
 /* ----------------------------------------------------------------
@@ -335,8 +335,8 @@ span, a, a:hover {
   right: 0;
   bottom: 0;
   background: transparent;
-  color: #C49B66;
-  border: 1px solid #C49B66;
+  color: #d8243c;
+  border: 1px solid #d8243c;
   line-height: 38px;
   -webkit-transition: .3s;
   transition: .3s;
@@ -352,7 +352,7 @@ span, a, a:hover {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #C49B66;
+  background: #d8243c;
   color: #fff;
   -webkit-transition: .3s;
   transition: .3s;
@@ -371,13 +371,13 @@ span, a, a:hover {
 }
 
 .buton-bord button:before, .buton-bord a:before {
-  background: #C49B66;
+  background: #d8243c;
   color: #fff;
 }
 .buton-bord button:after, .buton-bord a:after {
   background: transparent;
-  color: #C49B66;
-  border: 1px solid #C49B66;
+  color: #d8243c;
+  border: 1px solid #d8243c;
 }
 
 .buton-lg button, .buton-lg a {
@@ -416,7 +416,7 @@ span, a, a:hover {
   transition: all .5s;
 }
 .navbar .navbar-nav .active {
-  color: #C49B66 !important;
+  color: #d8243c !important;
 }
 
 .nav-scroll {
@@ -525,7 +525,7 @@ span, a, a:hover {
   padding: 0 0 0 20px;
 }
 .hero .hero-img:hover:after {
-  background: #C49B66;
+  background: #d8243c;
   left: 5px;
   top: -15px;
   right: 15px;
@@ -562,8 +562,8 @@ span, a, a:hover {
   transition: all .5s;
 }
 .hero .content .social-icon span:hover {
-  background: #C49B66;
-  border-color: #C49B66;
+  background: #d8243c;
+  border-color: #d8243c;
   color: #fff;
 }
 .hero .content .buton {
@@ -587,7 +587,7 @@ span, a, a:hover {
 }
 .resume .item .icon {
   font-size: 30px;
-  color: #C49B66;
+  color: #d8243c;
   margin-bottom: 15px;
 }
 .resume .item li {
@@ -637,7 +637,7 @@ span, a, a:hover {
   left: 0;
   height: 100%;
   width: 5%;
-  background: #C49B66;
+  background: #d8243c;
   -webkit-transition: all 1s;
   transition: all 1s;
 }
@@ -651,7 +651,7 @@ span, a, a:hover {
 }
 .services .item .icon {
   font-size: 40px;
-  color: #C49B66;
+  color: #d8243c;
   margin-bottom: 30px;
 }
 .services .item h6 {
@@ -694,7 +694,7 @@ span, a, a:hover {
 }
 .numbers .item .icon {
   font-size: 30px;
-  color: #C49B66;
+  color: #d8243c;
   margin-bottom: 30px;
 }
 .numbers .item h2 {
@@ -721,8 +721,8 @@ span, a, a:hover {
 }
 .portfolio .filtering .active {
   color: #fff;
-  background: #C49B66;
-  border-color: #C49B66;
+  background: #d8243c;
+  border-color: #d8243c;
 }
 .portfolio .filtering .active:after {
   bottom: 0;
@@ -752,7 +752,7 @@ span, a, a:hover {
   z-index: 5;
 }
 .portfolio .item-img h6 {
-  color: #C49B66;
+  color: #d8243c;
   font-size: 13px;
   position: relative;
   margin-bottom: 10px;
@@ -767,7 +767,7 @@ span, a, a:hover {
   position: absolute;
   bottom: 10px;
   right: 10px;
-  color: #C49B66;
+  color: #d8243c;
   -webkit-transition: all .5s;
   transition: all .5s;
   z-index: 5;
@@ -862,7 +862,7 @@ span, a, a:hover {
   right: 15px;
   padding: 8px 22px;
   font-size: 11px;
-  background: #C49B66;
+  background: #d8243c;
   color: #fff;
   -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
           box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
@@ -890,7 +890,7 @@ span, a, a:hover {
   color: #999;
 }
 .blog .pitem .info .more {
-  color: #C49B66;
+  color: #d8243c;
   border-bottom: 1px solid #eee;
 }
 .blog .pitem .info .by {
@@ -929,7 +929,7 @@ span, a, a:hover {
   float: left;
   padding-top: 5px;
   font-size: 25px;
-  color: #C49B66;
+  color: #d8243c;
 }
 .contact .info .item .cont {
   margin-left: 45px;
@@ -983,7 +983,7 @@ span, a, a:hover {
     color: #fff !important;
   }
   .nav-scroll .navbar-collapse .active {
-    color: #C49B66 !important;
+    color: #d8243c !important;
   }
 
   .header .caption h1 {
